@@ -1,4 +1,4 @@
-# Multi-djs [![npm](https://img.shields.io/npm/v/multi-djs.svg)](https://www.npmjs.com/package/multi-djs) [![npm](https://img.shields.io/npm/dt/multi-djs.svg?maxAge=3600)](https://www.npmjs.com/package/multi-djs)[![Gitlab code coverage (specific job)](https://img.shields.io/gitlab/coverage/multi-djs/multi-djs/README.md?color=green&job_name=multi-djs&label=github&logo=github)]
+# Multi-djs [![npm](https://img.shields.io/npm/v/multi-djs.svg)](https://www.npmjs.com/package/multi-djs) [![npm](https://img.shields.io/npm/dt/multi-djs.svg?maxAge=3600)](https://www.npmjs.com/package/multi-djs) ![Gitlab code coverage (specific job)](https://img.shields.io/gitlab/coverage/multi-djs/multi-djs/README.md?color=green&job_name=multi-djs&label=github&logo=github)
 
 ## Installation
 [![NPM](https://nodei.co/npm/multi-djs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/multi-djs/)
