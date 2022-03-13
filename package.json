@@ -1,0 +1,30 @@
+{
+  "name": "multi-djs",
+  "version": "0.0.6",
+  "description": "A npm of image manipulation, gif catcher and functions",
+  "main": "index.js",
+  "keywords": [
+    "JavaScript",
+    "canvas",
+    "jimp",
+    "Pagination",
+    "Discord",
+    "Discord.js",
+    "Discord-Bot",
+    "multi-djs",
+    "caxinha",
+    "caixinha"
+  ],
+  "author": "Astha & alexcabral",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "canvas": "^2.9.0",
+    "gifencoder": "2.0.1",
+    "jimp": "0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  }
+}
